@@ -1,0 +1,5 @@
+wget -N https://people.cs.kuleuven.be/~artur.kulmizev/course_files/irse/recipes.indexed.parquet
+wget -N https://people.cs.kuleuven.be/~artur.kulmizev/course_files/irse/queries.json
+pip -q install datasets
+pip install bitsandbytes
+pip install accelerate

@@ -1,0 +1,54 @@
+
+
+preprocessing = 
+k = 12 
+
+
+vocabulary = {description}
+
+Macro Precision: 0.04833333333333333
+Macro Recall: 0.068825772538913
+Macro F1-score: 0.045985855465445764
+
+Micro Precision: 0.04833333333333333
+Micro Recall: 0.05123674911660778
+Micro F1-score: 0.0497427101200686
+
+Mean Average Precision: 0.024030778758053057
+
+vocabulary = {name,description}
+
+Macro Precision: 0.185
+Macro Recall: 0.2639132367342196
+Macro F1-score: 0.18203216319119497
+
+Micro Precision: 0.185
+Micro Recall: 0.196113074204947
+Micro F1-score: 0.19039451114922815
+
+Mean Average Precision: 0.16366108218210446
+
+
+vocabulary = {name,ingredients, description}
+
+Macro Precision: 0.205
+Macro Recall: 0.29423385445351274
+Macro F1-score: 0.20074371206868555
+
+Micro Precision: 0.205
+Micro Recall: 0.21731448763250882
+Micro F1-score: 0.2109777015437393
+
+Mean Average Precision: 0.17282572154419193
+
+vocabulary = {name, steps, tags, ingredients, description}
+
+Macro Precision: 0.22
+Macro recall: 0.32149754398036023
+Macro F1-score: 0.2159143899306225
+
+Micro Precision: 0.22
+Micro Recall: 0.2332155477031802
+Micro F1-score: 0.22641509433962265
+
+Mean Average Precision: 0.18999921740274817

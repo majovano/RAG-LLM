@@ -1,0 +1,34 @@
+The number of components are : 100
+The number of neighbors are : 12
+
+Micro_Precision_LSI: 0.013333333333333334
+Micro_Recall_LSI: 0.014134275618374558
+Micro_F1-score_LSI: 0.013722126929674101
+LSI Mean Average Precision: 0.003988598855155147
+
+
+The number of components are : 500
+The number of neighbors are : 12
+
+Micro_Precision_LSI: 0.02
+Micro_Recall_LSI: 0.02120141342756184
+Micro_F1-score_LSI: 0.02058319039451115
+LSI Mean Average Precision: 0.014441405540743288
+
+
+The number of components are : 1000
+The number of neighbors are : 12
+
+Micro_Precision_LSI: 0.03833333333333333
+Micro_Recall_LSI: 0.04063604240282685
+Micro_F1-score_LSI: 0.03945111492281303
+LSI Mean Average Precision: 0.03670215480831073
+
+
+
+The number of components are : 5000
+The number of neighbors are : 12
+Micro_Precision_LSI: 0.14166666666666666
+Micro_Recall_LSI: 0.1501766784452297
+Micro_F1-score_LSI: 0.14579759862778732
+LSI Mean Average Precision: 0.09242715907555078
